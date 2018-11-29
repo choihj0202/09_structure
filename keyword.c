@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
@@ -49,4 +49,4 @@ void print_word(void) {
 		printf("%s : %i\n", keywrds[i].keywrd, keywrds[i].num);	
 	}
 	
-}*/
+}
